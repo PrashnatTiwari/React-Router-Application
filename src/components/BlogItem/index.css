@@ -1,0 +1,23 @@
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title {
+  font-size: 20px;
+  color: #12022f;
+  font-family: Roboto;
+}
+
+.description {
+  color: #9aa5b1;
+  font-family: Roboto;
+}
+
+.blog-item {
+  width: 75vw;
+  border-bottom: 1px solid #616e7c;
+  list-style-type: none;
+}
